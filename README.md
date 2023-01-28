@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the RoboDK API to control a robot in order to engrave a name on a surface.
 
+![image](https://user-images.githubusercontent.com/111273105/184798821-87040b96-309e-4c74-8be3-d6167b462b31.png)
+
 ## Requirements
 
 * RoboDK software (Demo version can be found at https://www.robodk.com/download)
@@ -22,6 +24,7 @@ The script ends by triggering a program call (RunInstruction) and moving the rob
 2. Observe the robot engraving a hexagon shape around the reference target
 3. The engraving can be adjusted by changing the radius of the hexagon and the angle of rotation in the script
     
+    Note: The above script is for demonstration purpose only, you need to adjust according to your robot type and the workpiece you want to engrave.
 
 
 
